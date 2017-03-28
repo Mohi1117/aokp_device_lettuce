@@ -1,0 +1,32 @@
+[
+ {
+   "remote": "github",
+   "repository": "the-darkbeast/android_device_cyanogen_msm8916-common",
+   "target_path": "device/cyanogen/msm8916-common",
+   "branch": "cm-14.1"
+ },
+ {
+   "remote": "github",
+   "repository": "the-darkbeast/android_vendor_volte",
+   "target_path": "vendor/yu",
+   "branch": "master"
+ },
+ {
+   "remote": "github",
+   "repository": "LineageOS/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "branch": "cm-14.1"
+ },
+ {
+   "remote": "github",
+   "repository": "LineageOS/android_packages_resources_devicesettings",
+   "target_path": "packages/resources/device/settings",
+   "branch": "cm-14.1"
+ },
+ {
+   "remote": "github",
+   "repository": "LineageOS/android_kernel_cyanogen_msm8916",
+   "target_path": "kernel/cyanogen/msm8916",
+   "branch": "cm-14.1"
+ }
+]
