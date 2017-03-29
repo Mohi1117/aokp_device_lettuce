@@ -8,7 +8,7 @@
  {
    "remote": "github",
    "repository": "the-darkbeast/android_vendor_volte",
-   "target_path": "vendor/yu",
+   "target_path": "vendor/volte",
    "branch": "master"
  },
  {
@@ -27,6 +27,12 @@
    "remote": "github",
    "repository": "LineageOS/android_kernel_cyanogen_msm8916",
    "target_path": "kernel/cyanogen/msm8916",
+   "branch": "cm-14.1"
+ },
+{
+   "remote": "github",
+   "repository": "themuppets/proprietary_vendor_yu",
+   "target_path": "vendor/yu",
    "branch": "cm-14.1"
  }
 ]
